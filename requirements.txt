@@ -1,5 +1,3 @@
-google_api_python_client==2.103.0
-google_auth_oauthlib
-protobuf==4.24.4
 streamlit==1.27.2
-google-auth
+google-auth-oauthlib==1.0.0
+google-api-python-client==2.77.0
